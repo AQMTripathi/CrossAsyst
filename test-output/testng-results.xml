@@ -5,7 +5,7 @@
       <![CDATA[Step Description--> Click on Sign In Button]]>
     </line>
     <line>
-      <![CDATA[Step Description--> Set Email Address in Create an coount field || Input Value : lcscvshgpz@gmail.com]]>
+      <![CDATA[Step Description--> Set Email Address in Create an coount field || Input Value : notqzoqkkb@gmail.com]]>
     </line>
     <line>
       <![CDATA[Step Description--> Click on Create an account button]]>
@@ -119,22 +119,22 @@
       <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39955" started-at="2020-05-27T17:12:41Z" finished-at="2020-05-27T17:13:21Z">
+  <suite name="Default suite" duration-ms="43495" started-at="2020-05-27T17:29:17Z" finished-at="2020-05-27T17:30:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39955" started-at="2020-05-27T17:12:41Z" finished-at="2020-05-27T17:13:21Z">
+    <test name="Default test" duration-ms="43495" started-at="2020-05-27T17:29:17Z" finished-at="2020-05-27T17:30:01Z">
       <class name="assignment.AutomationPractice">
-        <test-method status="PASS" signature="initializeEnviornment()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="initializeEnviornment" is-config="true" duration-ms="12094" started-at="2020-05-27T17:12:41Z" finished-at="2020-05-27T17:12:53Z">
+        <test-method status="PASS" signature="initializeEnviornment()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="initializeEnviornment" is-config="true" duration-ms="12130" started-at="2020-05-27T17:29:17Z" finished-at="2020-05-27T17:29:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeEnviornment -->
-        <test-method status="PASS" signature="testScript()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="testScript" duration-ms="27037" started-at="2020-05-27T17:12:53Z" finished-at="2020-05-27T17:13:20Z">
+        <test-method status="PASS" signature="testScript()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="testScript" duration-ms="30569" started-at="2020-05-27T17:29:29Z" finished-at="2020-05-27T17:30:00Z">
           <reporter-output>
             <line>
               <![CDATA[Step Description--> Click on Sign In Button]]>
             </line>
             <line>
-              <![CDATA[Step Description--> Set Email Address in Create an coount field || Input Value : lcscvshgpz@gmail.com]]>
+              <![CDATA[Step Description--> Set Email Address in Create an coount field || Input Value : notqzoqkkb@gmail.com]]>
             </line>
             <line>
               <![CDATA[Step Description--> Click on Create an account button]]>
@@ -249,7 +249,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- testScript -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="tearDown" is-config="true" duration-ms="784" started-at="2020-05-27T17:13:20Z" finished-at="2020-05-27T17:13:21Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="tearDown" is-config="true" duration-ms="761" started-at="2020-05-27T17:30:00Z" finished-at="2020-05-27T17:30:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
