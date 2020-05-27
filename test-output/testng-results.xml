@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Step Description--> Click on Sign In Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Email Address in Create an coount field || Input Value : lcscvshgpz@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click on Create an account button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select Male Checkbox for title]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer First Name || Input Value : First Name]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer Last Name || Input Value : Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer Password || Input Value : Pass@123]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select Date of Birth Days || Input Value : 1]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select Date of Birth Month || Input Value : 2]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select Date of Birth Year || Input Value : 1990]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer First Name Address Section || Input Value : First Name]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer Last Name Address Section || Input Value : Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer Address in Address Section || Input Value : Address Field Value Deliver]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Set Customer City in Address Section || Input Value : MyTestCity]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select State Value in Address Section || Input Value : Alaska]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select Pin code in Address Section || Input Value : 40070]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select Pin code in Address Section || Input Value : 8080808080]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Submit button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Woman Section]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Move to Element Specific Product || Input Value : Faded Short Sleeve T-shirts]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click on Add to Cart Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verify Product Added PopUp Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Product Added PopUp Close Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Move to Element Specific Product || Input Value : Printed Dress]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click on Add to Cart Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verify Product Added PopUp Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Product Added PopUp Proceed to checkout Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Proceed to Checkout Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Proceed to Checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Select I Agree Terms and conditions]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Proceed to Checkout Button]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Pay by Check]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click I Confirm my order]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Profile Name Label]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Click Order History]]>
+    </line>
+    <line>
+      <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39955" started-at="2020-05-27T17:12:41Z" finished-at="2020-05-27T17:13:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39955" started-at="2020-05-27T17:12:41Z" finished-at="2020-05-27T17:13:21Z">
+      <class name="assignment.AutomationPractice">
+        <test-method status="PASS" signature="initializeEnviornment()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="initializeEnviornment" is-config="true" duration-ms="12094" started-at="2020-05-27T17:12:41Z" finished-at="2020-05-27T17:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeEnviornment -->
+        <test-method status="PASS" signature="testScript()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="testScript" duration-ms="27037" started-at="2020-05-27T17:12:53Z" finished-at="2020-05-27T17:13:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step Description--> Click on Sign In Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Email Address in Create an coount field || Input Value : lcscvshgpz@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click on Create an account button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select Male Checkbox for title]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer First Name || Input Value : First Name]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer Last Name || Input Value : Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer Password || Input Value : Pass@123]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select Date of Birth Days || Input Value : 1]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select Date of Birth Month || Input Value : 2]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select Date of Birth Year || Input Value : 1990]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer First Name Address Section || Input Value : First Name]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer Last Name Address Section || Input Value : Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer Address in Address Section || Input Value : Address Field Value Deliver]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Set Customer City in Address Section || Input Value : MyTestCity]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select State Value in Address Section || Input Value : Alaska]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select Pin code in Address Section || Input Value : 40070]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select Pin code in Address Section || Input Value : 8080808080]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Submit button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Woman Section]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Move to Element Specific Product || Input Value : Faded Short Sleeve T-shirts]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click on Add to Cart Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verify Product Added PopUp Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Product Added PopUp Close Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Move to Element Specific Product || Input Value : Printed Dress]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click on Add to Cart Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verify Product Added PopUp Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Product Added PopUp Proceed to checkout Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Proceed to Checkout Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Proceed to Checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Select I Agree Terms and conditions]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Proceed to Checkout Button]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Pay by Check]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click I Confirm my order]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Profile Name Label]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Click Order History]]>
+            </line>
+            <line>
+              <![CDATA[Step Description--> Verify Product Total Price || Input Value : $44.51]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testScript -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:assignment.AutomationPractice@42e26948]" name="tearDown" is-config="true" duration-ms="784" started-at="2020-05-27T17:13:20Z" finished-at="2020-05-27T17:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- assignment.AutomationPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
